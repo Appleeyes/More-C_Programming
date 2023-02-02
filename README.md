@@ -1,2 +1,2 @@
 # More-C_Programming
-For C Language Practices
+This repository will contain my personal practices on C Language
